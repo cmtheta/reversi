@@ -1,6 +1,5 @@
 # reversi
-
-What I made as a hobby
+前に趣味で作成したリバーシのプログラム
 
 # Usage
  
